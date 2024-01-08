@@ -8,7 +8,8 @@ import io.swagger.v3.oas.models.security.SecurityScheme;
 import io.swagger.v3.oas.models.servers.Server;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-
+//Swagger 설정 관련 정보입니다.
+//로컬 접속 주소 : http://localhost:8080/swagger-ui/index.html#/
 @Configuration
 public class SwaggerConfig {
 
