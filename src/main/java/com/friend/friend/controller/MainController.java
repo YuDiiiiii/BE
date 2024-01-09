@@ -10,4 +10,5 @@ public class MainController {
     public String helloWorld() {
         return "CICD TEST";
     }
+
 }
